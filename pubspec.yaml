@@ -59,6 +59,9 @@ flutter:
     - assets/images/bomba_0.jpeg
     - assets/images/bomba_1.jpeg
     - assets/images/fechado.jpeg
+    - assets/images/minesweeperwin.gif
+    - assets/images/minesweeperlost.gif
+    - assets/images/minesweeperlost2.gif
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

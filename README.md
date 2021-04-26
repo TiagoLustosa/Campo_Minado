@@ -1,16 +1,12 @@
-# campo_minado
+# Campo Minado (MineSweeper)
 
-A new Flutter project.
+Mine Sweeper game (cod3r course)
 
-## Getting Started
+## Gif app sample (win game)
 
-This project is a starting point for a Flutter application.
+![App Sample](/assets/images/minesweeperwin.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Gif app sample (lost game)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Sample](assets/images/minesweeperlost.gif)
+![App Sample](assets/images/minesweeperlost2.gif)
